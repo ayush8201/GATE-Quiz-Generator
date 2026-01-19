@@ -1,4 +1,4 @@
-# 🎓 GATE Quiz Generator
+# 🎓 go
 
 A modern web application that automatically parses GATE exam PDFs (questions + answer key) and generates interactive quizzes with AI-powered hints, auto-scoring, and a beautiful glassmorphism UI.
 
